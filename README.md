@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🤝 I'm a 4th-semester student in ***Systems Analysis and Development*** at a higher education institution (**FATEC**). <br>
+🤝 I'm a 5th-semester student in ***Systems Analysis and Development*** at a higher education institution (**FATEC**). <br>
 🤝 Previously, I completed an ***Internet Informatics*** course integrated with high school (**ETEC**).
 
 </div>
