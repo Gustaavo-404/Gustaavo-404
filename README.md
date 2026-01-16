@@ -1,28 +1,29 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=B82222&center=true&width=435&lines=+Hi+There!+%F0%9F%91%8B;I'm+Gustavo." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=ff9900&center=true&width=435&lines=+Hi+There!+%F0%9F%91%8B;I'm+Gustavo." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A Student of Systems Analysis and Development 🇧🇷​</h3>
 
 <div align="center">
 
-🤝 I'm a 5th-semester student in ***Systems Analysis and Development*** at a higher education institution (**FATEC**). <br>
+🤝 I'm a student in ***Systems Analysis and Development*** at a higher education institution (**FATEC**). <br>
 🤝 Previously, I completed an ***Internet Informatics*** course integrated with high school (**ETEC**).
 
 </div>
  
-<h3 align="left">🚨​ What I'm Learning Now:</h3>
+<h3 align="left">🚀 What I'm Learning & Improving:</h3>
 
- ❗​ **JavaScript** frameworks;  <br>
- ❗​ **Java** programming; <br>
- ❗​ **Web** programming; <br>
- ❗​ **Bootstrap** framework; <br>
- ❗​ **Database modeling** with MySQL; <br>
- ❗​ **Linux** server commands; <br>
- ❗​ **Mobile app** development with Android Studio; <br>
- ❗​ **RESTful APIs** in Java with Spring Boot; <br>
- ❗​ **Software engineering** concepts; <br>
- ❗​ **English** language. <br>
+❗ <b>Advanced JavaScript</b> and modern frontend practices;<br>
+❗ <b>Java</b> with Spring Boot for scalable backend applications;<br>
+❗ <b>Python</b> with Flask for API development;<br>
+❗ <b>RESTful APIs</b> and system integration;<br>
+❗ <b>Tailwind CSS</b> for modern and responsive UI;<br>
+❗ <b>Relational databases</b> with MySQL and PostgreSQL;<br>
+❗ <b>NoSQL databases</b> with MongoDB;<br>
+❗ <b>Database modeling</b> and data persistence;<br>
+❗ <b>Linux</b> fundamentals and server-side commands;<br>
+❗ <b>Software Engineering</b> concepts and best practices;<br>
+❗ <b>Technical English</b> (documentation and communication).<br>
 
 <h3 align="left">🚨 Languages and Tools:</h3>
 <p align="left"> 
