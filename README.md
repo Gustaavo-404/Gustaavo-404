@@ -1,75 +1,108 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=ff9900&center=true&width=435&lines=+Hi+There!+%F0%9F%91%8B;I'm+Gustavo." alt="Typing SVG" /></a>
-</h1>
+<div align="center">
 
-<h3 align="center">A Student of Systems Analysis and Development 🇧🇷​</h3>
+### <> **Gustavo** | Full Stack Developer </>
+🎓 **ETEC + FATEC** | React • Node.js • Java • Python • Spring Boot • Databases
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Gustavo!;Full+Stack+Developer+💻;Open+to+work!+🤝)](https://git.io/typing-svg)
+
+</div>
+
+## 🟧 **My Journey**
+| 🎓 **Education** | 📚 **Academic Experience** |
+|----------------|---------------------------|
+| **Internet Informatics Technician**<br>🎯 ETEC (Integrated with High School) | Technical course focused on web development, computer fundamentals, and market practices |
+| **Systems Analysis and Development**<br>🎓 FATEC (Currently Enrolled) | Higher education with emphasis on software engineering, system architecture, and project management |
+
+---
+
+## 🟧 **Current Focus & Evolving Stack**
+
+### 🔷 **Main Technologies**
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### 🔷 **Development Stack**
+<div align="center">
+  
+**Frontend**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend & Databases**<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Others**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+</div>
+
+---
+
+## 🟧 **Learning Goals for 2026**
+<div align="center">
+
+| **Area** | **Technologies** | **Status** |
+|----------|-----------------|------------|
+| **Advanced Backend** | Spring Boot, RESTful APIs, Microservices | 🎯 **In Progress** |
+| **Modern Frontend** | React/Next.js, TypeScript, Design Systems | 🎯 **In Progress** |
+| **DevOps & Cloud** | Docker, AWS/GCP, CI/CD | 🔭 **On the Horizon** |
+| **Best Practices** | Clean Code, TDD, DDD, Clean Architecture | 📚 **Studying** |
+
+</div>
+
+---
+
+## 🟧 **GitHub Analytics**
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=30,0d0d0d,1a1a2e&title_color=ff9900&icon_color=00ccff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=30,1a1a2e,0d0d0d&title_color=ff9900)
+
+</div>
+
+---
+
+## 🟧 **Connect With Me**
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustavodev.net.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-medeiros-de-barros-092230279/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustmb2005@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
-🤝 I'm a student in ***Systems Analysis and Development*** at a higher education institution (**FATEC**). <br>
-🤝 Previously, I completed an ***Internet Informatics*** course integrated with high school (**ETEC**).
+## 💻 **Current Projects**
+Working on building scalable web applications with modern architectures
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustaavo-404&custom_title=Gustavo's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&area=true&color=FF6B00&line=00ccff&point=FF6B00)
+
+**💼 Seeking Full Stack Developer opportunities**  
+*Ready to contribute to innovative teams and projects*
+<br><br>
+[![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-00cc66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-medeiros-de-barros-092230279/)
+
 
 </div>
- 
-<h3 align="left">🚀 What I'm Learning & Improving:</h3>
-
-❗ <b>Advanced JavaScript</b> and modern frontend practices;<br>
-❗ <b>Java</b> with Spring Boot for scalable backend applications;<br>
-❗ <b>Python</b> with Flask for API development;<br>
-❗ <b>RESTful APIs</b> and system integration;<br>
-❗ <b>Tailwind CSS</b> for modern and responsive UI;<br>
-❗ <b>Relational databases</b> with MySQL and PostgreSQL;<br>
-❗ <b>NoSQL databases</b> with MongoDB;<br>
-❗ <b>Database modeling</b> and data persistence;<br>
-❗ <b>Linux</b> fundamentals and server-side commands;<br>
-❗ <b>Software Engineering</b> concepts and best practices;<br>
-❗ <b>Technical English</b> (documentation and communication).<br>
-
-<h3 align="left">🚨 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/js/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
-  </a>
-</p>
-
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=react&border_radius=10" alt="top langs" />
-
-  
-  <br/><br/><br/>
