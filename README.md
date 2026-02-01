@@ -1,9 +1,11 @@
 <div align="center">
 
-### <> **Gustavo** | Full Stack Developer </>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a2e&height=220&section=header&text=Gustavo%20Dev&fontSize=60&fontColor=FF6B00)
+
+### <> **Full Stack** Developer </>
 🎓 **ETEC + FATEC** | React • Node.js • Java • Python • Spring Boot • Databases
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Gustavo!;Full+Stack+Developer+💻;Open+to+work!+🤝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer.;Open+to+work!+🤝)](https://git.io/typing-svg)
 
 </div>
 
