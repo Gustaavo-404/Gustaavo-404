@@ -9,7 +9,8 @@
 <h1 align="center">Full Stack Developer</h1>
 
 <p align="center">
-  🎓 <strong>ETEC + FATEC</strong><br>
+  🎓 <strong>ETEC + FATEC</strong> |
+  Engineering scalable solutions from <strong>frontend</strong> to <strong>backend</strong>.<br>
   React • Node.js • Java • Python • Spring Boot • Databases
 </p>
 
