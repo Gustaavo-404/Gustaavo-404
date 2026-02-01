@@ -1,25 +1,38 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a2e&height=220&section=header&text=Gustavo%20Dev&fontSize=60&fontColor=FFFFFF)
+<p align="center">
+  <img src="assets/BannerGitHub.png" alt="Banner do projeto">
+</p>
 
-### <> **Full Stack** Developer </>
-🎓 **ETEC + FATEC** | React • Node.js • Java • Python • Spring Boot • Databases
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=00ccff&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer.;Open+to+work!+🤝)](https://git.io/typing-svg)
+<h1 align="center">Full Stack Developer</h1>
+
+<p align="center">
+  🎓 <strong>ETEC + FATEC</strong><br>
+  React • Node.js • Java • Python • Spring Boot • Databases
+</p>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer.;Open+to+work!+🤝)](https://git.io/typing-svg)
 
 </div>
 
-## 🟧 **My Journey**
+---
+
+## 🟧 My Journey
+
 | 🎓 **Education** | 📚 **Academic Experience** |
-|----------------|---------------------------|
+|:---------------:|---------------------------|
 | **Internet Informatics Technician**<br>🎯 ETEC (Integrated with High School) | Technical course focused on web development, computer fundamentals, and market practices |
 | **Systems Analysis and Development**<br>🎓 FATEC (Currently Enrolled) | Higher education with emphasis on software engineering, system architecture, and project management |
 
 ---
 
-## 🟧 **Current Focus & Evolving Stack**
+## 🟧 Current Focus & Evolving Stack
 
-### 🔷 **Main Technologies**
+### 🔷 Main Technologies
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +43,7 @@
 
 </div>
 
-### 🔷 **Development Stack**
+### 🔷 Development Stack
 <div align="center">
   
 **Frontend**<br>
@@ -39,6 +52,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
+<br>
+
 **Backend & Databases**<br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -46,6 +61,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<br>
 
 **Tools & Others**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -59,11 +76,11 @@
 
 ---
 
-## 🟧 **Learning Goals for 2026**
+## 🟧 Learning Goals for 2026
 <div align="center">
 
 | **Area** | **Technologies** | **Status** |
-|----------|-----------------|------------|
+|:--------:|------------------|:----------:|
 | **Advanced Backend** | Spring Boot, RESTful APIs, Microservices | 🎯 **In Progress** |
 | **Modern Frontend** | React/Next.js, TypeScript, Design Systems | 🎯 **In Progress** |
 | **DevOps & Cloud** | Docker, AWS/GCP, CI/CD | 🔭 **On the Horizon** |
@@ -73,17 +90,17 @@
 
 ---
 
-## 🟧 **GitHub Analytics**
+## 🟧 GitHub Analytics
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=30,0d0d0d,1a1a2e&title_color=ff9900&icon_color=00ccff)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=30,1a1a2e,0d0d0d&title_color=ff9900)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=30,0d0d0d,1a1a2e&title_color=ff9900&icon_color=00ccff">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=30,1a1a2e,0d0d0d&title_color=ff9900">
 
 </div>
 
 ---
 
-## 🟧 **Connect With Me**
+## 🟧 Connect With Me
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustavodev.net.br)
@@ -96,15 +113,20 @@
 
 <div align="center">
 
-## 💻 **Current Projects**
+## 💻 Current Projects
 Working on building scalable web applications with modern architectures
+
+<br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustaavo-404&custom_title=Gustavo's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&area=true&color=FF6B00&line=00ccff&point=FF6B00)
 
+<br>
+
 **💼 Seeking Full Stack Developer opportunities**  
 *Ready to contribute to innovative teams and projects*
-<br><br>
-[![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-00cc66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-medeiros-de-barros-092230279/)
 
+<br><br>
+
+[![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-00cc66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-medeiros-de-barros-092230279/)
 
 </div>
