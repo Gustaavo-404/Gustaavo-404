@@ -94,8 +94,8 @@
 ## 🟧 GitHub Analytics
 <div align="center">
   
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=30,0d0d0d,1a1a2e&title_color=ff9900&icon_color=00ccff">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=30,1a1a2e,0d0d0d&title_color=ff9900">
+<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&icon_color=00ccff">
+<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&text_color=ffffff">
 
 </div>
 
