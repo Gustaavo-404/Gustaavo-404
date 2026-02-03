@@ -96,6 +96,11 @@
   
 <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&icon_color=00ccff">
 <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&text_color=ffffff">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
