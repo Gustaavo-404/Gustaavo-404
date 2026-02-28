@@ -124,7 +124,15 @@ Working on building scalable web applications with modern architectures
 
 **💼 Seeking Full Stack Developer opportunities** *Ready to contribute to innovative teams and projects*
 
-<br><br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
 
 [![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-00cc66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-medeiros-de-barros-092230279/)
 
