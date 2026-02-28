@@ -16,13 +16,13 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer.;Open+to+work!+🤝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=00C49F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer.;Open+to+work!+🤝)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🟧 My Journey
+## 🟦 My Journey
 
 | 🎓 **Education** | 📚 **Academic Experience** |
 |:---------------:|---------------------------|
@@ -31,7 +31,7 @@
 
 ---
 
-## 🟧 Current Focus & Evolving Stack
+## 🟦 Current Focus & Evolving Stack
 
 ### 🔷 Main Technologies
 <div align="center">
@@ -77,7 +77,7 @@
 
 ---
 
-## 🟧 Learning Goals for 2026
+## 🟦 Learning Goals for 2026
 <div align="center">
 
 | **Area** | **Technologies** | **Status** |
@@ -91,22 +91,17 @@
 
 ---
 
-## 🟧 GitHub Analytics
+## 🟦 GitHub Analytics
 <div align="center">
   
-<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gustaavo-404&show_icons=true&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&icon_color=00ccff">
-<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&theme=radical&border_radius=10&bg_color=0d0d0d&title_color=ff9900&text_color=ffffff">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustaavo-404/gustaavo-404/output/github-contribution-grid-snake.svg">
-</picture>
+<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=gustaavo-404&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00C49F&text_color=ffffff&icon_color=00C49F">
+<img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gustaavo-404&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00C49F&text_color=ffffff">
 
 </div>
 
 ---
 
-## 🟧 Connect With Me
+## 🟦 Connect With Me
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustavodev.net.br)
@@ -124,12 +119,11 @@ Working on building scalable web applications with modern architectures
 
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustaavo-404&custom_title=Gustavo's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&area=true&color=FF6B00&line=00ccff&point=FF6B00)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustaavo-404&custom_title=Gustavo's+Contribution+Graph&theme=nightowl&bg_color=0d1117&hide_border=true&area=true&color=00C49F&line=00C49F&point=00C49F)
 
 <br>
 
-**💼 Seeking Full Stack Developer opportunities**  
-*Ready to contribute to innovative teams and projects*
+**💼 Seeking Full Stack Developer opportunities** *Ready to contribute to innovative teams and projects*
 
 <br><br>
 
