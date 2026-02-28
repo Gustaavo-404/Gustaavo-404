@@ -6,12 +6,11 @@
 
 <br>
 
-<h1 align="center">Full Stack Developer</h1>
+<h1 align="center">GUSTAVO DEV</h1>
 
 <p align="center">
-  🎓 <strong>ETEC + FATEC</strong> |
-  Engineering scalable solutions from <strong>frontend</strong> to <strong>backend</strong>.<br>
-  React • Node.js • Java • Python • Spring Boot • Databases
+  <strong>ETEC • FATEC</strong> | Systems Analysis & Development<br>
+  Engineering scalable solutions from <strong>frontend</strong> to <strong>backend</strong>
 </p>
 
 <br>
