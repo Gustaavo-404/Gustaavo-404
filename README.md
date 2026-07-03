@@ -88,7 +88,7 @@
 |:--------:|------------------|:----------:|
 | **Advanced Backend** | Spring Boot, RESTful APIs, Microservices | 🎯 **In Progress** |
 | **Modern Frontend** | React/Next.js, TypeScript, Design Systems | 🎯 **In Progress** |
-| **DevOps & Cloud** | Docker, AWS/GCP, CI/CD | 🔭 **On the Horizon** |
+| **DevOps & Cloud** | Docker, AWS/GCP, CI/CD | 🎯 **In Progress** |
 | **Best Practices** | Clean Code, TDD, DDD, Clean Architecture | 📚 **Studying** |
 
 </div>
